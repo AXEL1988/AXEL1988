@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-**Welcome to my GitHub I'm Edison** I am Software Developer in Grupo Conecta.
+**Welcome to my GitHub I'm Edison**
 
 ### 💻 I'm working on
 
-- ANGULAR
-- ASP.NET C#
-
+- PROJECT OF ANGULAR
+- PROJECT OF ASP.NET C#
+- COMMUNITY ANGULAR QUITO <a><img src="https://avatars1.githubusercontent.com/u/67175371?s=200&v=4" alt="Angular Quito" height="30"/><a>
+  
 ### ✔️ I'm currently learning
 
 - ALGORITHMS
@@ -27,13 +28,14 @@
 <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a>
 <a href = "https://firebase.google.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></a>
-<a href = "https://www.w3schools.com/sql/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></a>
+<a href = "https://www.w3schools.com/sql/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></a><a href="https://angular.io"><img src="https://avatars0.githubusercontent.com/u/48934602?s=200&v=4" height="40"/></a>
 <br>
 <a><img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github" /></a>
 <a><img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb" /></a>
 <a><img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql" /></a>
 <a><img src="https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js" /></a>
   <a><img src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu" /></a>
+
 </p><p></p>
 
 <h2 align="center">Feel free to Connect with me on</h2>
