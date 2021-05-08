@@ -5,7 +5,9 @@
 ### 💻 I'm working on
 
 - PROJECT OF ANGULAR
-- PROJECT OF ASP.NET C#
+- PROJECT OF .NET C#
+- PROJECT OF IONIC
+- PROJECT OF PYTHON
 - COMMUNITY ANGULAR QUITO <a><img src="https://avatars1.githubusercontent.com/u/67175371?s=200&v=4" alt="Angular Quito" height="30"/><a>
   
 ### ✔️ I'm currently learning
