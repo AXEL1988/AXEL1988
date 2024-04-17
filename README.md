@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 **Welcome to my GitHub I'm Edison**
-
++8 years’ experience as a Full Stack Engineer. Focus in designing, developing and implementing software
+applications Detail-oriented and results-driven. Committed to delivering high-quality software products to meet customer needs. Founder of Community Angular Quito I love learning and helping others learn, the last year I was speaking in Google Developer Group - GDG Quito.
 ### 💻 I'm working on
 
 - PROJECT OF ANGULAR
